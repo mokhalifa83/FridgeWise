@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FridgeWise",
+  "description": "Don't waste food. Upload photos of your leftover ingredients and get delicious, AI-generated recipe suggestions instantly. Your smart recipe rescuer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
